@@ -2,3 +2,4 @@ abc
 master add
 abcdef
 원격 저장소에서 변경됨
+remote change2
